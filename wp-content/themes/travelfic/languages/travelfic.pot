@@ -1,0 +1,440 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Travelfic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-19 11:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: travelfic"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ""
+
+#: inc/customizer/customizer.php:455
+msgid "404 Button Label"
+msgstr ""
+
+#: inc/customizer/customizer.php:466
+msgid "404 Button URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:422
+msgid "404 Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:444
+msgid "404 Page Sub Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:433
+msgid "404 Page Title"
+msgstr ""
+
+#: functions.php:134 functions.php:146
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/customizer.php:357
+msgid "Archive"
+msgstr ""
+
+#: inc/customizer/customizer.php:369
+msgid "Archive Page Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:273 inc/customizer/customizer.php:410
+#: inc/customizer/customizer.php:480 inc/meta-boxes/travelfic-meta-boxes.php:15
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:255 inc/customizer/customizer.php:319
+#: inc/customizer/customizer.php:391
+msgid "Banner"
+msgstr ""
+
+#: inc/customizer/customizer.php:330
+msgid "Blog details"
+msgstr ""
+
+#: inc/customizer/customizer.php:342
+msgid "Blog Details Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:315 inc/customizer/customizer.php:387
+msgid "Blog page title style"
+msgstr ""
+
+#: inc/customizer/customizer.php:297
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:285
+msgid "Blogs"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-widgets/widgets/travelfic-footer-info.php:77
+msgid "Contact number:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:34
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/customizer.php:188
+msgid "Desktop Container ( 1201px to 1920px )"
+msgstr ""
+
+#: inc/meta-boxes/travelfic-meta-boxes.php:63
+msgid "Disable Banner"
+msgstr ""
+
+#: inc/meta-boxes/travelfic-meta-boxes.php:47
+msgid "Disable Sidebar"
+msgstr ""
+
+#: inc/meta-boxes/travelfic-meta-boxes.php:79
+msgid "Disable Transparent Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:84 inc/customizer/customizer.php:136
+msgid "Disabled"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:91 template-parts/content-page.php:45
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-widgets/widgets/travelfic-footer-info.php:81
+msgid "Email:"
+msgstr ""
+
+#: inc/customizer/customizer.php:83 inc/customizer/customizer.php:135
+msgid "Enabled"
+msgstr ""
+
+#: inc/theme-widgets/widgets/travelfic-footer-info.php:89
+msgid "facebook_url:"
+msgstr ""
+
+#: inc/customizer/customizer.php:144
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:155
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:167
+msgid "Footer Text Color"
+msgstr ""
+
+#: functions.php:144
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/theme-widgets/widgets/travelfic-footer-info.php:85
+msgid "Google map:"
+msgstr ""
+
+#: inc/customizer/customizer.php:66
+msgid "Header"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themefic.com/"
+msgstr ""
+
+#: inc/theme-widgets/widgets/travelfic-footer-info.php:93
+msgid "instagram_url:"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/customizer.php:177
+msgid "Layout"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:75
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer/customizer.php:237 inc/customizer/customizer.php:301
+#: inc/customizer/customizer.php:346 inc/customizer/customizer.php:373
+msgid "Left"
+msgstr ""
+
+#: inc/theme-widgets/widgets/travelfic-footer-info.php:101
+msgid "linkedin_url:"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/customizer/customizer.php:212
+msgid "Mobile Container ( 320px to 767px )"
+msgstr ""
+
+#: functions.php:50
+msgid "Mobile Menu"
+msgstr ""
+
+#: template-parts/blog-details.php:24
+msgid "Next:"
+msgstr ""
+
+#: inc/customizer/customizer.php:321 inc/customizer/customizer.php:393
+msgid "No title"
+msgstr ""
+
+#: inc/customizer/customizer.php:239 inc/customizer/customizer.php:303
+#: inc/customizer/customizer.php:348 inc/customizer/customizer.php:375
+msgid "None"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: inc/travelfic-functions.php:32 inc/customizer/customizer.php:221
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:233
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:251
+msgid "Page Title style"
+msgstr ""
+
+#: template-parts/content-page.php:31 template-parts/content.php:52
+msgid "Pages:"
+msgstr ""
+
+#: inc/travelfic-functions.php:60
+msgid "Pin it"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:42
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:60
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: template-parts/blog-details.php:23
+msgid "Previous:"
+msgstr ""
+
+#: functions.php:48
+msgid "Primary"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/theme-widgets/widgets/travelfic-recent-posts.php:79
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/meta-boxes/travelfic-meta-boxes.php:25
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/customizer.php:238 inc/customizer/customizer.php:302
+#: inc/customizer/customizer.php:347 inc/customizer/customizer.php:374
+msgid "Right"
+msgstr ""
+
+#. %s: search query.
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:49
+msgid "Secondary Menu"
+msgstr ""
+
+#: inc/travelfic-functions.php:46
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/travelfic-functions.php:68
+msgid "Share on Linkedin"
+msgstr ""
+
+#: functions.php:132
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:14
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/customizer.php:79
+msgid "Stiky Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:107
+msgid "Stiky Header Background blur"
+msgstr ""
+
+#: inc/customizer/customizer.php:95
+msgid "Stiky Header Background color"
+msgstr ""
+
+#: inc/customizer/customizer.php:119
+msgid "Stiky Header Menu text Color"
+msgstr ""
+
+#: inc/meta-boxes/travelfic-meta-boxes.php:31
+msgid "Subtitle ( When banner enabled )"
+msgstr ""
+
+#: inc/customizer/customizer.php:200
+msgid "Tablet Container ( 768px to 1200px )"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:66
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: template-parts/blog-details.php:16
+msgid "Tags"
+msgstr ""
+
+#. Author of the theme
+msgid "themefic"
+msgstr ""
+
+#: inc/customizer/customizer.php:320 inc/customizer/customizer.php:392
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:256
+msgid "Title only"
+msgstr ""
+
+#: inc/theme-widgets/widgets/travelfic-recent-posts.php:83
+msgid "Title:"
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+msgid "Transparent Header"
+msgstr ""
+
+#. Name of the theme
+msgid "Travelfic"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Travelfic is a free travel and tour booking friendly WordPress theme. It is "
+"powered by the Tourfic Plugin, the most popular tour and travel booking "
+"plugin. You can able to use the tour operators, hotel booking, city tour, "
+"hiking, tourism, summer holidays, winter holidays, wine tours, cruise "
+"websites, beach holidays, etc. You can create itineraries, destinations, "
+"activities, trip types, hotel location, hotel features etc. Travelfic is "
+"mobile-friendly, SEO-optimized, translation-ready. Plus, it is compatible "
+"with Elementor."
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/theme-widgets/widgets/travelfic-recent-posts.php:14
+#: inc/theme-widgets/widgets/travelfic-recent-posts.php:17
+msgid "Travelfic Recent Posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:58
+msgid "Travelfic settings"
+msgstr ""
+
+#: inc/travelfic-functions.php:52
+msgid "Tweet this"
+msgstr ""
+
+#: inc/theme-widgets/widgets/travelfic-footer-info.php:97
+msgid "twitter_url:"
+msgstr ""
+
+#: inc/meta-boxes/travelfic-meta-boxes.php:24
+msgid "Upload"
+msgstr ""
+
+#: footer.php:27
+#, php-format
+msgid "© Copyright %1$s %2$s by %3$s All Rights Reserved."
+msgstr ""

@@ -1,0 +1,1304 @@
+{
+    "dup_type": "lite",
+    "created": "2024-11-22 06:31:16",
+    "version_dup": "1.5.11.2",
+    "version_wp": "6.7.1",
+    "version_db": "8.0.40",
+    "version_php": "8.1.30",
+    "version_os": "Linux",
+    "blogname": "Geb &amp; Nut tours",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$ey.9lBhMrZwurTh6p\/OwouZyvKAfZ1FPCcFW6qfDnCS8O58ckE4Si",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "17GaX4_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "gebandnut-tours.com",
+            "path": "\/",
+            "blogname": "Geb &amp; Nut tours",
+            "blog_prefix": "17GaX4_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "sheko-elkady",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/gebandnut-tours.com",
+            "fullSiteUrl": "https:\/\/gebandnut-tours.com",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/gebandnu\/public_html\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/gebandnu\/public_html\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/gebandnut-tours.com\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "MYSQLDUMP",
+        "charSetList": [
+            "utf8mb4"
+        ],
+        "collationList": [
+            "utf8mb4_0900_ai_ci",
+            "utf8mb4_unicode_520_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 1,
+        "isNameUpperCase": 0,
+        "name": "gebandnu_wp_ysafu",
+        "tablesBaseCount": 77,
+        "tablesFinalCount": 77,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 23973,
+        "tablesSizeOnDisk": 29163520,
+        "tablesList": {
+            "17GaX4_actionscheduler_actions": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 131072
+            },
+            "17GaX4_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "17GaX4_actionscheduler_groups": {
+                "inaccurateRows": 4,
+                "insertedRows": 4,
+                "size": 32768
+            },
+            "17GaX4_actionscheduler_logs": {
+                "inaccurateRows": 6,
+                "insertedRows": 7,
+                "size": 49152
+            },
+            "17GaX4_babe_av_cal": {
+                "inaccurateRows": 15868,
+                "insertedRows": 17005,
+                "size": 7913472
+            },
+            "17GaX4_babe_booking_rules": {
+                "inaccurateRows": 5,
+                "insertedRows": 5,
+                "size": 147456
+            },
+            "17GaX4_babe_category_deactivate_schedule": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "17GaX4_babe_discount": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 65536
+            },
+            "17GaX4_babe_order_itemmeta": {
+                "inaccurateRows": 182,
+                "insertedRows": 200,
+                "size": 81920
+            },
+            "17GaX4_babe_order_items": {
+                "inaccurateRows": 25,
+                "insertedRows": 28,
+                "size": 49152
+            },
+            "17GaX4_babe_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "17GaX4_babe_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "17GaX4_babe_rates": {
+                "inaccurateRows": 39,
+                "insertedRows": 38,
+                "size": 196608
+            },
+            "17GaX4_commentmeta": {
+                "inaccurateRows": 310,
+                "insertedRows": 310,
+                "size": 81920
+            },
+            "17GaX4_comments": {
+                "inaccurateRows": 53,
+                "insertedRows": 63,
+                "size": 114688
+            },
+            "17GaX4_duplicator_packages": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "17GaX4_e_events": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "17GaX4_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "17GaX4_options": {
+                "inaccurateRows": 572,
+                "insertedRows": 582,
+                "size": 4325376
+            },
+            "17GaX4_postmeta": {
+                "inaccurateRows": 5273,
+                "insertedRows": 5013,
+                "size": 8159232
+            },
+            "17GaX4_posts": {
+                "inaccurateRows": 417,
+                "insertedRows": 562,
+                "size": 4866048
+            },
+            "17GaX4_revslider_css": {
+                "inaccurateRows": 109,
+                "insertedRows": 109,
+                "size": 147456
+            },
+            "17GaX4_revslider_css_bkp": {
+                "inaccurateRows": 47,
+                "insertedRows": 47,
+                "size": 32768
+            },
+            "17GaX4_revslider_layer_animations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "17GaX4_revslider_layer_animations_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "17GaX4_revslider_navigations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "17GaX4_revslider_navigations_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "17GaX4_revslider_sliders": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "17GaX4_revslider_sliders_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "17GaX4_revslider_slides": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 65536
+            },
+            "17GaX4_revslider_slides_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "17GaX4_revslider_static_slides": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "17GaX4_revslider_static_slides_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "17GaX4_tec_events": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 32768
+            },
+            "17GaX4_tec_occurrences": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 49152
+            },
+            "17GaX4_term_relationships": {
+                "inaccurateRows": 391,
+                "insertedRows": 387,
+                "size": 32768
+            },
+            "17GaX4_term_taxonomy": {
+                "inaccurateRows": 94,
+                "insertedRows": 87,
+                "size": 49152
+            },
+            "17GaX4_termmeta": {
+                "inaccurateRows": 180,
+                "insertedRows": 167,
+                "size": 49152
+            },
+            "17GaX4_terms": {
+                "inaccurateRows": 89,
+                "insertedRows": 87,
+                "size": 49152
+            },
+            "17GaX4_usermeta": {
+                "inaccurateRows": 110,
+                "insertedRows": 110,
+                "size": 49152
+            },
+            "17GaX4_users": {
+                "inaccurateRows": 5,
+                "insertedRows": 5,
+                "size": 65536
+            },
+            "17GaX4_wc_admin_note_actions": {
+                "inaccurateRows": 94,
+                "insertedRows": 94,
+                "size": 81920
+            },
+            "17GaX4_wc_admin_notes": {
+                "inaccurateRows": 62,
+                "insertedRows": 63,
+                "size": 65536
+            },
+            "17GaX4_wc_category_lookup": {
+                "inaccurateRows": 4,
+                "insertedRows": 4,
+                "size": 16384
+            },
+            "17GaX4_wc_customer_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "17GaX4_wc_download_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "17GaX4_wc_order_addresses": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "17GaX4_wc_order_coupon_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "17GaX4_wc_order_operational_data": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "17GaX4_wc_order_product_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "17GaX4_wc_order_stats": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "17GaX4_wc_order_tax_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "17GaX4_wc_orders": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "17GaX4_wc_orders_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "17GaX4_wc_product_attributes_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "17GaX4_wc_product_download_directories": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "17GaX4_wc_product_meta_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 114688
+            },
+            "17GaX4_wc_rate_limits": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "17GaX4_wc_reserved_stock": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "17GaX4_wc_tax_rate_classes": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "17GaX4_wc_webhooks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "17GaX4_woocommerce_api_keys": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "17GaX4_woocommerce_attribute_taxonomies": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "17GaX4_woocommerce_downloadable_product_permissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "17GaX4_woocommerce_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "17GaX4_woocommerce_order_itemmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "17GaX4_woocommerce_order_items": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "17GaX4_woocommerce_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "17GaX4_woocommerce_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "17GaX4_woocommerce_sessions": {
+                "inaccurateRows": 3,
+                "insertedRows": 4,
+                "size": 32768
+            },
+            "17GaX4_woocommerce_shipping_zone_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "17GaX4_woocommerce_shipping_zone_methods": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "17GaX4_woocommerce_shipping_zones": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "17GaX4_woocommerce_tax_rate_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "17GaX4_woocommerce_tax_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "17GaX4_wpmailsmtp_debug_events": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 16384
+            },
+            "17GaX4_wpmailsmtp_tasks_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            }
+        },
+        "lowerCaseTableNames": 0,
+        "dbEngine": "MySQL",
+        "version": "8.0.40",
+        "versionComment": "MySQL Community Server - GPL",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 1,
+        "packageName": "20241122_gebnuttours",
+        "packageHash": "9b5738b-22063116",
+        "secondaryHash": "74d6e69-22063116"
+    },
+    "fileInfo": {
+        "dirCount": 3197,
+        "fileCount": 21559,
+        "size": 686356627
+    },
+    "wpInfo": {
+        "version": "6.7.1",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/gebandnu\/public_html",
+        "targetPaths": [
+            "\/home\/gebandnu\/public_html"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "sheko-elkady",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/gebandnu\/public_html\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "0Eo(d8fNx:&PBvFkEG0UL&W6DdG%3]S86vW|D457ydV6phin(XExAQZQd8KQL17B",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "h@#!WVU]e|9553lEZ58h*7l5H%+~O2Bz4mbPL9cN@WKQy]TVvUE2);7A2aN8jOax",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "BN9P]D#tP1]_%)R;|#YyvL858(ptx5XN]24+N8jcZO[90J|O15~u;s5T*9U0%u7G",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "]8%cnmvu98iJF!#e4ry8UQ01e-o[*6:q-iBu7Tbg|!d_Mh2:_f4ONk97%t-9@1*w",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "q&r*j298])GgH5MWO&h8H98R6#U+5hZbRaa49mT6jl7f!!4q|\/s6P6u4M84Q]|;7",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "sG2TbpKWp06M~R%#(kR2ySF#Jfwkr49U|2zxV910Cy:0zN0A#O581@0Blg9FBd04",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "nUT0z50*TQrk1xvo553#o\/xDMR1w_t\/-8!lOW!@Mu;50#3(06a]7*6y!2Z8vQ1(g",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "%HubrqH[DFB088X8-Z]f3_7Dt(4i[*c!Z3TB:UK#7FPWo7O:]-g*#*FC#twh4[!W",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/gebandnu\/public_html\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/gebandnut-tours.com\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/gebandnu\/public_html\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/gebandnut-tours.com\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": "",
+                    "inWpConfig": false
+                },
+                "WP_ALLOW_MULTISITE": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/gebandnu\/public_html\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_DIR": {
+                    "value": 493,
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 420,
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/gebandnu\/public_html\/wp-content\/themes\/tevily",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/gebandnu\/public_html\/wp-content\/themes\/tevily",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/gebandnu\/public_html\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/gebandnut-tours.com\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/gebandnut-tours.com",
+                "homeUrl": "https:\/\/gebandnut-tours.com",
+                "loginUrl": "https:\/\/gebandnut-tours.com\/wp-login.php",
+                "contentUrl": "https:\/\/gebandnut-tours.com\/wp-content",
+                "uploadBaseUrl": "https:\/\/gebandnut-tours.com\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/gebandnut-tours.com\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/gebandnut-tours.com\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/gebandnut-tours.com\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/gebandnu\/public_html",
+                    "abs": "\/home\/gebandnu\/public_html",
+                    "wpconfig": "\/home\/gebandnu\/public_html",
+                    "wpcontent": "\/home\/gebandnu\/public_html\/wp-content",
+                    "uploads": "\/home\/gebandnu\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/gebandnu\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/gebandnu\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/gebandnu\/public_html\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/gebandnu\/public_html",
+                    "abs": "\/home\/gebandnu\/public_html",
+                    "wpconfig": "\/home\/gebandnu\/public_html",
+                    "wpcontent": "\/home\/gebandnu\/public_html\/wp-content",
+                    "uploads": "\/home\/gebandnu\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/gebandnu\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/gebandnu\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/gebandnu\/public_html\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "ba-book-everything\/babe-bootstrap.php": {
+                "slug": "ba-book-everything\/babe-bootstrap.php",
+                "name": "BA Book Everything",
+                "version": "1.6.17",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/ba-book-everything\/",
+                "author": "Booking Algorithms",
+                "authorURI": "https:\/\/ba-booking.com",
+                "description": "The really fast and powerful Booking engine for any booking or rental sites (tours, hostels, apartments, cars, events etc., or all together).",
+                "title": "BA Book Everything",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "classic-editor\/classic-editor.php": {
+                "slug": "classic-editor\/classic-editor.php",
+                "name": "Classic Editor",
+                "version": "1.6.4",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/classic-editor\/",
+                "author": "WordPress Contributors",
+                "authorURI": "https:\/\/github.com\/WordPress\/classic-editor\/",
+                "description": "Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen.",
+                "title": "Classic Editor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "contact-form-7\/wp-contact-form-7.php": {
+                "slug": "contact-form-7\/wp-contact-form-7.php",
+                "name": "Contact Form 7",
+                "version": "5.9.8",
+                "pluginURI": "https:\/\/contactform7.com\/",
+                "author": "Takayuki Miyoshi",
+                "authorURI": "https:\/\/ideasilo.wordpress.com\/",
+                "description": "Just another contact form plugin. Simple but flexible.",
+                "title": "Contact Form 7",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.11.2",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "3.23.4",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "extendify\/extendify.php": {
+                "slug": "extendify\/extendify.php",
+                "name": "Extendify WordPress Onboarding and AI Assistant",
+                "version": "1.14.4",
+                "pluginURI": "https:\/\/extendify.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Extendify",
+                "authorURI": "https:\/\/extendify.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "AI-powered WordPress assistant for onboarding and ongoing editing offered exclusively through select WordPress hosting providers.",
+                "title": "Extendify WordPress Onboarding and AI Assistant",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "gtranslate\/gtranslate.php": {
+                "slug": "gtranslate\/gtranslate.php",
+                "name": "GTranslate",
+                "version": "3.0.6",
+                "pluginURI": "https:\/\/gtranslate.io\/?xyz=998",
+                "author": "Translate AI Multilingual Solutions",
+                "authorURI": "https:\/\/gtranslate.io",
+                "description": "Translate your website and make it multilingual. For support visit <a href=\"https:\/\/wordpress.org\/support\/plugin\/gtranslate\">GTranslate Support Forum<\/a>.",
+                "title": "GTranslate",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "image-optimization\/image-optimization.php": {
+                "slug": "image-optimization\/image-optimization.php",
+                "name": "Image Optimizer by Elementor \u2013 Compress, Resize and Optimize Images",
+                "version": "1.5.1",
+                "pluginURI": "https:\/\/go.elementor.com\/wp-repo-description-tab-io-product-page\/",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/go.elementor.com\/wp-repo-description-tab-io-author-url\/",
+                "description": "Automatically compress and enhance your images, boosting your website speed, appearance, and SEO. Get Image Optimizer and optimize your images in seconds.",
+                "title": "Image Optimizer by Elementor \u2013 Compress, Resize and Optimize Images",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "creame-whatsapp-me\/joinchat.php": {
+                "slug": "creame-whatsapp-me\/joinchat.php",
+                "name": "Joinchat",
+                "version": "5.1.7",
+                "pluginURI": "https:\/\/join.chat",
+                "author": "Creame",
+                "authorURI": "https:\/\/crea.me",
+                "description": "Connects a WordPress chat with WhatsApp. The best solution for marketing and support. Stop losing customers and increase your sales.",
+                "title": "Joinchat",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "mailchimp-for-wp\/mailchimp-for-wp.php": {
+                "slug": "mailchimp-for-wp\/mailchimp-for-wp.php",
+                "name": "MC4WP: Mailchimp for WordPress",
+                "version": "4.9.14",
+                "pluginURI": "https:\/\/www.mc4wp.com\/#utm_source=wp-plugin&utm_medium=mailchimp-for-wp&utm_campaign=plugins-page",
+                "author": "ibericode",
+                "authorURI": "https:\/\/www.ibericode.com\/",
+                "description": "Mailchimp for WordPress by ibericode. Adds various highly effective sign-up methods to your site.",
+                "title": "MC4WP: Mailchimp for WordPress",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "meta-box\/meta-box.php": {
+                "slug": "meta-box\/meta-box.php",
+                "name": "Meta Box",
+                "version": "5.9.11",
+                "pluginURI": "https:\/\/metabox.io",
+                "author": "MetaBox.io",
+                "authorURI": "https:\/\/metabox.io",
+                "description": "Create custom meta boxes and custom fields in WordPress.",
+                "title": "Meta Box",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "redux-framework\/redux-framework.php": {
+                "slug": "redux-framework\/redux-framework.php",
+                "name": "Redux Framework",
+                "version": "4.4.18",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/redux-framework",
+                "author": "Team Redux",
+                "authorURI": "https:\/\/redux.io",
+                "description": "Build better sites in WordPress fast!",
+                "title": "Redux Framework",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "revslider\/revslider.php": {
+                "slug": "revslider\/revslider.php",
+                "name": "Slider Revolution",
+                "version": "6.6.16",
+                "pluginURI": "https:\/\/www.sliderrevolution.com\/?utm_source=admin&utm_medium=button&utm_campaign=srusers&utm_content=info",
+                "author": "ThemePunch",
+                "authorURI": "https:\/\/themepunch.com\/?utm_source=admin&utm_medium=button&utm_campaign=srusers&utm_content=info",
+                "description": "Slider Revolution - More than just a WordPress Slider",
+                "title": "Slider Revolution",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-whatsapp-chat\/wp-whatsapp-chat.php": {
+                "slug": "wp-whatsapp-chat\/wp-whatsapp-chat.php",
+                "name": "Social Chat",
+                "version": "7.4.4",
+                "pluginURI": "https:\/\/quadlayers.com\/products\/whatsapp-chat\/",
+                "author": "QuadLayers",
+                "authorURI": "https:\/\/quadlayers.com",
+                "description": "Social Chat allows your visitors to contact you or your team through WhatsApp with a single click.",
+                "title": "Social Chat",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "tevily-themer\/tevily-themer.php": {
+                "slug": "tevily-themer\/tevily-themer.php",
+                "name": "Tevily Themer",
+                "version": "1.5.7",
+                "pluginURI": "",
+                "author": "Gaviasthemes Team",
+                "authorURI": "",
+                "description": "Open Setting, Post Type, Shortcode ... for theme",
+                "title": "Tevily Themer",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "the-events-calendar\/the-events-calendar.php": {
+                "slug": "the-events-calendar\/the-events-calendar.php",
+                "name": "The Events Calendar",
+                "version": "6.6.0.2",
+                "pluginURI": "",
+                "author": "The Events Calendar",
+                "authorURI": "https:\/\/evnt.is\/1x",
+                "description": "The Events Calendar is a carefully crafted, extensible plugin that lets you easily share your events. Beautiful. Solid. Awesome.",
+                "title": "The Events Calendar",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "theme-editor\/theme_editor.php": {
+                "slug": "theme-editor\/theme_editor.php",
+                "name": "Theme Editor",
+                "version": "2.9",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/theme-editor",
+                "author": "mndpsingh287",
+                "authorURI": "https:\/\/profiles.wordpress.org\/mndpsingh287",
+                "description": "create, edit, upload, download, delete Theme Files and folders",
+                "title": "Theme Editor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce\/woocommerce.php": {
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "9.0.2",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "An ecommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-downgrade\/wp-downgrade.php": {
+                "slug": "wp-downgrade\/wp-downgrade.php",
+                "name": "WP Downgrade | Specific Core Version",
+                "version": "1.2.6",
+                "pluginURI": "https:\/\/www.reisetiger.net",
+                "author": "Reisetiger",
+                "authorURI": "https:\/\/www.reisetiger.net",
+                "description": "WP Downgrade allows you to either downgrade or update WordPress Core to an arbitrary version of your choice. The version you choose is downloaded directly from wordpress.org and installed just like any regular release update. The target version WordPress allows you to update to remains constant until you enter a different one or deactivate the plugin either completely or by leaving the target version field empty.",
+                "title": "WP Downgrade | Specific Core Version",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-reset\/wp-reset.php": {
+                "slug": "wp-reset\/wp-reset.php",
+                "name": "WP Reset",
+                "version": "2.03",
+                "pluginURI": "https:\/\/wpreset.com\/",
+                "author": "WebFactory Ltd",
+                "authorURI": "https:\/\/www.webfactoryltd.com\/",
+                "description": "Reset the entire site or just selected parts while reserving the option to undo by using snapshots.",
+                "title": "WP Reset",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-rollback\/wp-rollback.php": {
+                "slug": "wp-rollback\/wp-rollback.php",
+                "name": "WP Rollback",
+                "version": "2.0.7",
+                "pluginURI": "https:\/\/wprollback.com\/",
+                "author": "WP Rollback",
+                "authorURI": "https:\/\/wprollback.com\/",
+                "description": "Rollback (or forward) any WordPress.org plugin, theme or block like a boss.",
+                "title": "WP Rollback",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "maintenance.php": {
+                "slug": "maintenance.php",
+                "name": "maintenance.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            }
+        },
+        "themes": {
+            "tevily": {
+                "slug": "tevily",
+                "themeName": "Tevily",
+                "version": "1.2.1",
+                "themeURI": "https:\/\/gaviaspreview.com\/wp\/tevily\/",
+                "parentTheme": false,
+                "template": "tevily",
+                "stylesheet": "tevily",
+                "description": "The 2021 theme for WordPress is a fully responsive theme that looks great on any device.",
+                "author": "Gaviasthemes Team",
+                "authorURI": "https:\/\/themeforest.net\/user\/gavias",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "custom-background",
+                    "custom-header",
+                    "custom-menu",
+                    "editor-style",
+                    "featured-images",
+                    "flexible-header",
+                    "full-width-template",
+                    "microformats",
+                    "post-formats",
+                    "sticky-post",
+                    "theme-options",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "travelfic": {
+                "slug": "travelfic",
+                "themeName": "Travelfic",
+                "version": "1.1.5",
+                "themeURI": "https:\/\/tourfic.site\/travelfic\/",
+                "parentTheme": false,
+                "template": "travelfic",
+                "stylesheet": "travelfic",
+                "description": "Travelfic is the Ultimate WordPress Theme for developing Hotel Booking, Tour Booking and Apartment Booking websites. It is designed to effortlessly develop a Travel Booking website. Leveraging Tourfic for its backbone, Travelfic offers a user-friendly interface and sophisticated functionalities like room management system, tour itinerary builder as well as adding trips, destinations and advanced pricing logic. The theme also allows seamless management of online booking and order systems, along with any WooCommerce payment method. Furthermore, Travelfic enables customer account registration for booking hotels, apartments, and tour packages online. Essentially, it empowers you to swiftly create a website similar to industry giants like Booking.com, Agoda, Hotels.com, and Airbnb. With its comprehensive range of features from basic to advanced, Travelfic is your all-in-one solution for launching your next WordPress-based Hotel, Apartment, or Travel website. If you face any issues with this theme, you can always open a ticket from https:\/\/portal.themefic.com\/support",
+                "author": "Themefic",
+                "authorURI": "https:\/\/themefic.com\/",
+                "tags": [
+                    "custom-menu",
+                    "custom-logo",
+                    "entertainment",
+                    "one-column",
+                    "two-columns",
+                    "left-sidebar",
+                    "e-commerce",
+                    "right-sidebar",
+                    "custom-colors",
+                    "editor-style",
+                    "featured-images",
+                    "full-width-template",
+                    "microformats",
+                    "post-formats",
+                    "rtl-language-support",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog",
+                    "tour-booking",
+                    "tour-operator",
+                    "travel",
+                    "travel-booking",
+                    "tour",
+                    "travel-agency",
+                    "hotel-booking",
+                    "reservation",
+                    "hotel",
+                    "apartments",
+                    "villa",
+                    "hostel",
+                    "wp-travel-engine",
+                    "wp-travel",
+                    "wp-hotel-booking",
+                    "wp-tour-plugin",
+                    "airbnb",
+                    "travel-itinerary",
+                    "woocommerce-accommodation-bookings",
+                    "apartment-booking",
+                    "apartment-rental"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentyfive": {
+                "slug": "twentytwentyfive",
+                "themeName": "Twenty Twenty-Five",
+                "version": "1.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyfive\/",
+                "parentTheme": false,
+                "template": "twentytwentyfive",
+                "stylesheet": "twentytwentyfive",
+                "description": "Twenty Twenty-Five emphasizes simplicity and adaptability. It offers flexible design options, supported by a variety of patterns for different page types, such as services and landing pages, making it ideal for building personal blogs, professional portfolios, online magazines, or business websites. Its templates cater to various blog styles, from text-focused to image-heavy layouts. Additionally, it supports international typography and diverse color palettes, ensuring accessibility and customization for users worldwide.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            },
+            "twentytwentyfour": {
+                "slug": "twentytwentyfour",
+                "themeName": "Twenty Twenty-Four",
+                "version": "1.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyfour\/",
+                "parentTheme": false,
+                "template": "twentytwentyfour",
+                "stylesheet": "twentytwentyfour",
+                "description": "Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Twenty Twenty-Four comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentyone": {
+                "slug": "twentytwentyone",
+                "themeName": "Twenty Twenty-One",
+                "version": "1.9",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyone\/",
+                "parentTheme": false,
+                "template": "twentytwentyone",
+                "stylesheet": "twentytwentyone",
+                "description": "Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme\u2019s soft colors and eye-catching \u2014 yet timeless \u2014 design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "accessibility-ready",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.2",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentytwo": {
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.5",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Site Editor features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "style-variations",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "Geb &amp; Nut tours"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20241122_gebnuttours_9b5738b9e6eb79265632_20241122063116_installer-backup.php",
+    "package_name": "20241122_gebnuttours_9b5738b9e6eb79265632_20241122063116_archive.zip",
+    "package_hash": "9b5738b-22063116",
+    "package_notes": ""
+}
