@@ -4626,7 +4626,10 @@ class BABE_html {
         $av_cal_ages = isset($av_cal_first_rec_rate['price_general']) && is_array($av_cal_first_rec_rate['price_general']) ? $av_cal_first_rec_rate['price_general'] : array();
 
         foreach($services_arr as $service){
-
+            // Skip tour guide services in the main loop
+            if (strpos($service['post_title'], 'TOUR_GUIDE_') === 0) {
+                continue;
+            }
             $sr_block = '';
 
             $general_price = (float)$service['prices'][0];
@@ -4800,6 +4803,40 @@ class BABE_html {
         }
 
         $output = apply_filters('babe_list_add_services_render_html', $output, compact('service_fields', 'post_id', 'services_arr', 'selected_services_arr', 'date_from', 'date_to', 'guests', 'ages', 'html_id') );
+
+        // Add Preferred Language Tour Guide as a separate block (checkboxes, always appears)
+        $tour_guide_services = array_filter($services_arr, function($service) {
+            return strpos($service['post_title'], 'TOUR_GUIDE_') === 0;
+        });
+        if (!empty($tour_guide_services)) {
+            $output .= '<label class="booking_form_input_label"><strong>Preferred Language Tour Guide</strong></label>';
+            $output .= '<div class="booking_services_inner" style="width:100%">';
+            foreach ($tour_guide_services as $service) {
+                $lang = htmlspecialchars(str_replace('TOUR_GUIDE_', '', $service['post_title']));
+                // Remove any trailing (number) for display
+                $lang_clean = preg_replace('/\s*\([^)]+\)$/', '', $lang);
+                $price = isset($service['prices'][0]) ? BABE_Currency::get_currency_price($service['prices'][0]) : '';
+                $checked = isset($selected_services_arr[$service['ID']]) ? 'checked' : '';
+                $output .= '<div class="list_service babe-tour-guide-language d-flex  align-items-center"><div class="list_service_title ">';
+                $output .= '<label><input type="checkbox" name="booking_services[]" class="tour-guide-checkbox" value="'.esc_attr($service['ID']).'" '.$checked.'> '.esc_html($lang_clean).'</label>';
+                $output .= '<h4>'.$lang_clean.'</h4></div>';
+                $output .= '<div class="list_service_prices">';
+                if ($price !== '') {
+                    $output .= '<span class="service_price_line">'.$price.'</span>';
+                }
+                $output .= '</div></div>';
+            }
+            $output .= '</div>';
+            $output .= '<script>
+    jQuery(document).ready(function($) {
+        $(document).on("change", ".tour-guide-checkbox", function() {
+            if ($(this).is(":checked")) {
+                $(".tour-guide-checkbox").not(this).prop("checked", false);
+            }
+        });
+    });
+    </script>';
+        }
 
         return $output;
     }
